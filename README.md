@@ -15,7 +15,6 @@ Ethiopia_Tourism is an all-in-one travel platform built to enrich the tourism ex
 - [Environment Variables](#environment-variables)
 - [Payment Integration](#payment-integration)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Project Overview
