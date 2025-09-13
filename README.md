@@ -1,9 +1,9 @@
 
 
 
-# WanderEthio
+# v
 
-WanderEthio is a comprehensive tourism platform designed to enhance the travel experience in Ethiopia. It offers a seamless registration and login process for tourists, enabling them to manage bookings and explore the rich cultural heritage and breathtaking landscapes of Ethiopia. With an easy-to-use interface and secure authentication, WanderEthio ensures a smooth and enjoyable journey for every traveler.
+Ethiopia_Tourism is an all-in-one travel platform built to enrich the tourism experience in Ethiopia. It provides a simple and secure registration and login system, allowing travelers to manage their bookings with ease. The platform opens doors to Ethiopia’s diverse cultural heritage and stunning natural scenery through an intuitive interface. With reliable authentication and user-friendly features, Ethiopia_Tourism makes every traveler’s journey smooth, engaging, and memorable.
 
 ## Table of Contents
 
@@ -20,11 +20,7 @@ WanderEthio is a comprehensive tourism platform designed to enhance the travel e
 
 ## Project Overview
 
-WanderEthio is a MERN stack application built using Vite for the frontend and Nodemon for the backend.
- It includes detailed pages for various destinations in Ethiopia,
- covering aspects such as history, top attractions, culture, accommodations, and more.
- The website also features sections on Ethiopian music, food, films, and
-a registration/payment system integrated with Chapa.
+Ethiopia_Tourism is a MERN stack web application developed with Vite powering the frontend and Nodemon supporting the backend. The platform offers comprehensive destination pages across Ethiopia, showcasing history, major attractions, cultural highlights, accommodations, and more. Beyond travel details, it also explores Ethiopia’s rich heritage through dedicated sections on music, cuisine, and cinema. To enhance usability, the site integrates a registration and payment system via Chapa, ensuring a smooth and secure booking experience.
 
 ## Features
 
@@ -68,12 +64,12 @@ integrated Chapa payment system.
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Hailemeskel-Getaneh/wander.git
+   git clone https://github.com/Bharani127/ethiopia_tourism.git
    ```
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd wander
+   cd ethiopia_tourism
    ```
 
 3. **Install Dependencies**:
@@ -130,15 +126,12 @@ Contributions are welcome! Please follow these steps to contribute:
 4. Push to your branch (`git push origin feature-branch`).
 5. Create a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
 For any questions or inquiries, feel free to reach out:
 
-- **Your Name**: [hailegetaneh1221@gmail.com](mailto:hailegetaneh1221@gmail.com)
-- **GitHub**: [Hailemeskel-Getaneh](https://github.com/Hailemeskel-Getaneh)
+- **Your Name**: [bharanichappidi2006@gmail.com](mailto:bharanichappidi2006@gmail.com)
+- **GitHub**: https://github.com/Bharani127
 ```
 
